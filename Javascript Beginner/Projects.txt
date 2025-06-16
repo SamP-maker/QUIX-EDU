@@ -1,0 +1,14 @@
+| Lesson | Topic            | Mini Project Idea                    | Key Logic They Write                                      |
+|--------|------------------|--------------------------------------|-----------------------------------------------------------|
+| 1      | Variables         | Mad Libs Story                       | Define and use variables in a sentence                    |
+| 2      | Arithmetic        | Simple Calculator                    | Do basic + - * / operations inside a function             |
+| 3      | Strings           | Character Counter                    | Use .length, .toUpperCase(), etc.                         |
+| 4      | Logic Operators   | Tic Tac Toe – Part 1 (Win Check)     | Write win logic using &&, ||                              |
+| 5      | Logic + Control   | Tic Tac Toe – Part 2 (Game Flow)     | Use if / else, switch turns, check for draw              |
+| 6      | Arrays            | Flashcards or Playlist Navigator     | Navigate an array using index, .length, .push()           |
+| 7      | Objects           | Food Menu System                     | Add/edit object properties for menu items                |
+| 8      | Functions         | Quiz Grader or Currency Converter    | Function with parameters and return                      |
+| 9      | Classes           | Pet / Game Character Creator         | Write class with constructor and simple method           |
+| 10     | Error Handling    | Login Validator                      | Use try...catch to handle invalid input                  |
+| 11     | Events            | Button Click Counter                 | Add event listener and write click handler               |
+| 12     | Modules           | Math Helper Toolkit                  | Write export and import for functions across files       |

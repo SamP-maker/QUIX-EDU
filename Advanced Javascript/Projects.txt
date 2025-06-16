@@ -1,0 +1,12 @@
+| Lesson | Topic                      | Project Idea / Focus                       | Key Student Task / Coding Focus                      |
+|--------|----------------------------|-------------------------------------------|-----------------------------------------------------|
+| 1      | Promises & Async/Await      | Weather App (Fake API)                     | Write async functions using fetch and handle promises |
+| 2      | Fetch API + JSON Parsing    | Live Search / Movie DB Search              | Fetch data and display results dynamically          |
+| 3      | Advanced ES6+ Features      | Refactor small app with modern syntax     | Use destructuring, spread/rest, arrow functions     |
+| 4      | DOM Manipulation Deep Dive  | Interactive To-Do List                     | Dynamically add, edit, delete DOM elements           |
+| 5      | LocalStorage & SessionStorage| Persistent To-Do List                      | Save and load data from browser storage              |
+| 6      | Modular JavaScript & Bundling| Split app into modules & use a bundler    | Write ES Modules and configure bundler basics        |
+| 7      | Intro to Node.js & Express  | Simple REST API                           | Write backend endpoint and basic routing              |
+| 8      | Intro to React/Vue/Svelte   | Build small reactive component             | Write component with state and props                  |
+| 9      | State Management & Routing  | SPA navigation with Router                  | Implement page routing and shared state               |
+| 10     | Testing JS Code             | Unit testing with Jest                      | Write tests for functions and components              |
