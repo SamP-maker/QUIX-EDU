@@ -6,4 +6,4 @@
 // - Creating elements dynamically with createElement
 // - Appending and removing nodes
 // - Event delegation: bubbling vs capturing
-// - Mini Project: Interactive To-Do List
+// - Mini Project: Interactive To-Do List                <---------------------

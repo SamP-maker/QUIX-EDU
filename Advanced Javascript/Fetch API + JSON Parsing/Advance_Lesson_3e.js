@@ -5,5 +5,5 @@
 // - How fetch() works
 // - Parsing JSON data using .json()
 // - Catching errors and fallback logic
-// - Hands-on: Connect to a public API
-// - Assignment: Build a Weather Widget
+// - Hands-on: Connect to a public API              
+// - Assignment: Build a Weather Widget              <---------------------

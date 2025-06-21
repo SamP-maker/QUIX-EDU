@@ -2,7 +2,7 @@
 // Module 1: Advanced ES6+ Features
 // ========================================
 // - Destructuring (arrays, objects)
-// - Spread and Rest operators
+// - Spread and Rest operators           <---------------------
 // - Default & Named Parameters
 // - Arrow Functions: behavior with 'this'
 // - Optional Chaining, Nullish Coalescing
