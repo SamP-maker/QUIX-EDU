@@ -56,5 +56,3 @@ This track is **project-based** and prepares students for real-world development
 
 ---
 
-## 📚 Repository Structure (optional)
-
